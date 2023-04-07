@@ -1,0 +1,26 @@
+.task-list{
+    background: rgb(15, 0, 19);
+    padding: 10px 0;
+    margin-bottom: 20px;
+    color: aliceblue;
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.listDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.icons{
+    display: flex;
+    gap: 20px;
+}
